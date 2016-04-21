@@ -1,0 +1,58 @@
+/* add your CSS here */
+
+.body
+  {
+    max-width: 305px;
+    border-style: solid;
+    border-color: #c4c9cc;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+
+
+.title
+  {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-left: 1px;
+  }
+
+.info
+  {
+    max-width: 290px;
+    padding: 0px 5px 0px 5px;
+    border-style: solid;
+    border-color: #c4c9cc;
+  }
+
+.factoid
+  {
+    font-style: italic;
+  }
+
+.list
+  {
+    list-style-position: outside;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+.heading
+  {
+    font-weight: bold;
+    font-style: normal;
+  }
+
+.bullet
+  {
+    font-weight: normal;
+    font-style: italic;
+  }
+
+.image
+  {
+    padding: 4px 4px 4px 3px;
+  }
